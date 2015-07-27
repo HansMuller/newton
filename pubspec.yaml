@@ -1,6 +1,6 @@
 name: newton
 description: Simple Physics Simulations for Dart
-version: 0.1.1
+version: 0.1.2
 author: Chromium Authors <sky-dev@googlegroups.com>
 homepage: https://github.com/domokit/newton
 environment:
