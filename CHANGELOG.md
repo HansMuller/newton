@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.4
+
+- Added FrictionSimulation.through()
+
 ## 0.1.3
 
 - Various gratuitous changes. No new functionality.
