@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.5
+
+- Added ScrollSpringSimulation
+
 ## 0.1.4
 
 - Added FrictionSimulation.through()
